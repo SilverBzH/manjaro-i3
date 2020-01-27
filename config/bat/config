@@ -1,0 +1,8 @@
+#bat config file
+#should be in ~/.config/bat/config
+
+#Set Theme
+--theme="Monokai Extended"
+
+#Use C++ syntax for headers files
+--map-syntax h:cpp

@@ -1,0 +1,4 @@
+#!/bin/sh
+
+#Office setup
+xrandr --output HDMI1 --mode 2560x1440 --right-of HDMI2  --output HDMI2 --primary --mode 2560x1440
